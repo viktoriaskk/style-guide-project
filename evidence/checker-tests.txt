@@ -1,0 +1,11 @@
+test_catches_inflected_term (test_check_docs.EditorialChecks.test_catches_inflected_term) ... ok
+test_catches_link_and_image (test_check_docs.EditorialChecks.test_catches_link_and_image) ... ok
+test_catches_missing_result (test_check_docs.EditorialChecks.test_catches_missing_result) ... ok
+test_catches_timezone_omission (test_check_docs.EditorialChecks.test_catches_timezone_omission) ... ok
+test_does_not_confuse_substrings (test_check_docs.EditorialChecks.test_does_not_confuse_substrings) ... ok
+test_valid_instruction (test_check_docs.EditorialChecks.test_valid_instruction) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK

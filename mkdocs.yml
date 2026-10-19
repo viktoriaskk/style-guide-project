@@ -39,6 +39,7 @@ nav:
       - Оформление и Markdown: guide/formatting.md
       - Даты и сообщения: guide/interface.md
       - Шаблоны: guide/document-templates.md
+      - Доступность текста: guide/accessibility.md
       - Проверка и обновление: guide/quality.md
   - Примеры:
       - Запись студента: examples/student-booking.md

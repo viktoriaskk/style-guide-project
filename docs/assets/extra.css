@@ -8,3 +8,13 @@ table { width: 100%; }
 th, td { padding: .6rem !important; vertical-align: top; }
 @media (min-width: 992px) { .container { max-width: 1200px; } }
 @media print { .navbar, .bs-sidebar { display: none; } .col-md-9 { width: 100%; } }
+
+body { background-image: none; }
+.navbar { background: #163b5c !important; background-image: none !important; }
+.navbar .nav-link, .navbar-brand { color: #fff !important; }
+.navbar .disabled { color: #d2dce6 !important; }
+a { color: #145b8c; }
+[data-bs-theme="dark"] body { color: #e8edf3; }
+[data-bs-theme="dark"] a { color: #8dccf7; }
+.bs-sidebar .nav > li > a { color: #145b8c; }
+[data-bs-theme="dark"] .bs-sidebar .nav > li > a { color: #8dccf7; }

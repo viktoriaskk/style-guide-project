@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-19",
+  "results": [
+    {
+      "check": "draft-check",
+      "exit_code": 1,
+      "expected_exit_code": 1,
+      "passed": true
+    },
+    {
+      "check": "editorial-check",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "checker-tests",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "markdown-lint",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "mkdocs-build",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    }
+  ],
+  "scope": "Local checks only. GitHub Actions and deployment are not yet verified."
+}
