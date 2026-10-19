@@ -1,0 +1,10 @@
+body { color: #1c2837; }
+body[data-bs-theme="dark"] { color: #e8edf3; }
+.bs-sidebar { font-size: .96rem; }
+main, .col-md-9 { line-height: 1.65; }
+a { text-underline-offset: .15em; }
+a:focus-visible, button:focus-visible { outline: 3px solid #b25e00; outline-offset: 3px; }
+table { width: 100%; }
+th, td { padding: .6rem !important; vertical-align: top; }
+@media (min-width: 992px) { .container { max-width: 1200px; } }
+@media print { .navbar, .bs-sidebar { display: none; } .col-md-9 { width: 100%; } }

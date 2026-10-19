@@ -1,0 +1,15 @@
+{
+  "name": "style-guide-project",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Documentation style guide for a student consultation service",
+  "scripts": {
+    "lint": "markdownlint-cli2"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "0.20.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
