@@ -1,15 +1,19 @@
 {
   "prepared_on": "2026-10-19",
   "repository_target": "https://github.com/viktoriaskk/style-guide-project",
-  "repository_created": false,
+  "repository_created": true,
   "site_deployed": false,
-  "pull_request_url": null,
+  "pull_request_url": "https://github.com/viktoriaskk/style-guide-project/pull/1",
   "partner_pull_request_url": null,
   "incoming_reviews": [],
   "outgoing_review_comments": [],
   "revision_commit": null,
   "approval_url": null,
   "merge_commit": null,
-  "deployment_run_url": null,
-  "note": "Локальная подготовка. Внешние действия фиксируются только после выполнения."
+  "deployment_run_url": "https://github.com/viktoriaskk/style-guide-project/actions/runs/39276203856",
+  "note": "Репозиторий и PR опубликованы. Проверки PR пройдены. Повторная публикация запущена после включения GitHub Pages. Внешнее ревью ещё не получено.",
+  "review_account": "tlartem",
+  "review_format": "Совместное ревью Стабровского Владимира Александровича и Цырульникова Артёма Алексеевича с одного аккаунта",
+  "ci_run_url": "https://github.com/viktoriaskk/style-guide-project/actions/runs/39277625678",
+  "ci_conclusion": "success"
 }
