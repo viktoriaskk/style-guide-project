@@ -48,9 +48,8 @@ python -m mkdocs serve
 Репозиторий: [viktoriaskk/style-guide-project](https://github.com/viktoriaskk/style-guide-project).
 PR для совместного ревью: [правила доступности текста, № 1](https://github.com/viktoriaskk/style-guide-project/pull/1).
 Комментарии Владимира и Артёма публикуются с аккаунта `tlartem`.
-Ожидаемый адрес сайта после успешного развёртывания:
-`https://viktoriaskk.github.io/style-guide-project/`.
-Этот адрес не является подтверждением состоявшейся публикации.
+Опубликованный сайт: [руководство по стилю](https://viktoriaskk.github.io/style-guide-project/).
+Главная страница и инструкция студента проверены в браузере 19.10.2026.
 
 В настройках репозитория выберите **Settings → Pages → Source → GitHub Actions**.
 Workflow проверяет push и PR; публикация разрешена только для `main` после успешных проверок.
