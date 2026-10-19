@@ -45,7 +45,9 @@ python -m mkdocs serve
 
 ## Публикация и ревью
 
-Целевой репозиторий: `viktoriaskk/style-guide-project`.
+Репозиторий: [viktoriaskk/style-guide-project](https://github.com/viktoriaskk/style-guide-project).
+PR для совместного ревью: [правила доступности текста, № 1](https://github.com/viktoriaskk/style-guide-project/pull/1).
+Комментарии Владимира и Артёма публикуются с аккаунта `tlartem`.
 Ожидаемый адрес сайта после успешного развёртывания:
 `https://viktoriaskk.github.io/style-guide-project/`.
 Этот адрес не является подтверждением состоявшейся публикации.
