@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "results": [
+    {
+      "check": "draft-check",
+      "exit_code": 1,
+      "expected_exit_code": 1,
+      "passed": true
+    },
+    {
+      "check": "editorial-check",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "checker-tests",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "markdown-lint",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    },
+    {
+      "check": "mkdocs-build",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true
+    }
+  ],
+  "scope": "Local checks for revisions after joint review; deployment of this branch awaits approval and merge."
+}

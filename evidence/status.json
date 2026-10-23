@@ -1,19 +1,29 @@
 {
-  "prepared_on": "2026-10-19",
+  "prepared_on": "2026-10-23",
   "repository_target": "https://github.com/viktoriaskk/style-guide-project",
   "repository_created": true,
-  "site_deployed": false,
+  "site_deployed": true,
   "pull_request_url": "https://github.com/viktoriaskk/style-guide-project/pull/1",
   "partner_pull_request_url": null,
-  "incoming_reviews": [],
+  "incoming_reviews": [
+    "https://github.com/viktoriaskk/style-guide-project/pull/1#pullrequestreview-5627398768"
+  ],
   "outgoing_review_comments": [],
   "revision_commit": null,
   "approval_url": null,
   "merge_commit": null,
   "deployment_run_url": "https://github.com/viktoriaskk/style-guide-project/actions/runs/39276203856",
-  "note": "Репозиторий и PR опубликованы. Проверки PR пройдены. Повторная публикация запущена после включения GitHub Pages. Внешнее ревью ещё не получено.",
+  "note": "Совместное ревью получено 23.10.2026. Исправлены SG-38, SG-39 и SG-40. Локальные проверки пройдены. Ожидаются повторное одобрение, merge и ответное ревью PR партнёров.",
   "review_account": "tlartem",
   "review_format": "Совместное ревью Стабровского Владимира Александровича и Цырульникова Артёма Алексеевича с одного аккаунта",
   "ci_run_url": "https://github.com/viktoriaskk/style-guide-project/actions/runs/39277625678",
-  "ci_conclusion": "success"
+  "ci_conclusion": "success",
+  "site_url": "https://viktoriaskk.github.io/style-guide-project/",
+  "site_verified_pages": [
+    "/",
+    "/examples/student-booking/"
+  ],
+  "latest_ci_run_url": "https://github.com/viktoriaskk/style-guide-project/actions/runs/39279128149",
+  "latest_ci_observed_status": "completed",
+  "latest_ci_conclusion": "success"
 }

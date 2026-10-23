@@ -1,0 +1,14 @@
+evidence/drafts/student-before.md: отсутствует раздел «Перед началом» (SG-12)
+evidence/drafts/student-before.md: отсутствует раздел «Порядок действий» (SG-12)
+evidence/drafts/student-before.md: отсутствует раздел «Результат» (SG-12)
+evidence/drafts/student-before.md: отсутствует раздел «Если возникла проблема» (SG-12)
+evidence/drafts/student-before.md:3: SG-10: используйте «интервал»
+evidence/drafts/student-before.md:3: SG-10: используйте «учётная запись»
+evidence/drafts/student-before.md: укажите UTC+3 (SG-25)
+evidence/drafts/teacher-before.md: отсутствует раздел «Перед началом» (SG-12)
+evidence/drafts/teacher-before.md: отсутствует раздел «Порядок действий» (SG-12)
+evidence/drafts/teacher-before.md: отсутствует раздел «Результат» (SG-12)
+evidence/drafts/teacher-before.md: отсутствует раздел «Если возникла проблема» (SG-12)
+evidence/drafts/teacher-before.md:3: SG-10: используйте «интервал»
+evidence/drafts/teacher-before.md: укажите UTC+3 (SG-25)
+Проверено инструкций: 2; замечаний: 13
