@@ -6,6 +6,6 @@ test_does_not_confuse_substrings (test_check_docs.EditorialChecks.test_does_not_
 test_valid_instruction (test_check_docs.EditorialChecks.test_valid_instruction) ... ok
 
 ----------------------------------------------------------------------
-Ran 6 tests in 0.001s
+Ran 6 tests in 0.002s
 
 OK
